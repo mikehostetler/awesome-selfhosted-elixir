@@ -1,0 +1,12 @@
+{
+  "name": "awesome-selfhosted-elixir",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A curated list of self-hosted applications written in Elixir",
+  "scripts": {
+    "test": "awesome-lint"
+  },
+  "devDependencies": {
+    "awesome-lint": "2.3.0"
+  }
+}

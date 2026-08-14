@@ -1,0 +1,57 @@
+name: Suggest an application
+description: Suggest a self-hosted Elixir application for the list.
+title: "Add: "
+labels:
+  - addition
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Application name
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source-code URL
+    validations:
+      required: true
+  - type: input
+    id: install
+    attributes:
+      label: Self-hosting instructions
+    validations:
+      required: true
+  - type: input
+    id: license
+    attributes:
+      label: License
+      description: Use an SPDX license identifier when possible.
+    validations:
+      required: true
+  - type: textarea
+    id: elixir
+    attributes:
+      label: How does the server use Elixir?
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Proposed description
+      description: Use one short sentence.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: I searched the README and open pull requests for this application.
+          required: true
+        - label: I confirmed that the self-hosted core has an OSI-approved license.
+          required: true
+        - label: I confirmed that the installation instructions are usable.
+          required: true
+        - label: I confirmed that the repository is not archived.
+          required: true

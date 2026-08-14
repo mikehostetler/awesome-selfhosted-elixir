@@ -1,0 +1,26 @@
+name: Link Check
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+  schedule:
+    - cron: "17 8 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7
+      - name: Check links
+        uses: lycheeverse/lychee-action@v2.9.0
+        with:
+          args: --verbose --no-progress --accept 200,429 README.md CONTRIBUTING.md
+          fail: true
