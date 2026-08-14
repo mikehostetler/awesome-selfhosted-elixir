@@ -7,6 +7,7 @@ This list records the source language of each application. It does not use only 
 ## Contents
 
 - [AI and Agents](#ai-and-agents)
+- [Agent Frameworks and Development Tools](#agent-frameworks-and-development-tools)
 - [Analytics](#analytics)
 - [Automation and Data](#automation-and-data)
 - [Business and Collaboration](#business-and-collaboration)
@@ -22,7 +23,57 @@ This list records the source language of each application. It does not use only 
 
 - [AlexClaw](https://github.com/thatsme/AlexClaw) - Personal AI agent with workflows, memory, local-model support, and chat-platform control. `Apache-2.0`.
 - [Ankole](https://github.com/AgentBull/ankole) - AI workforce and agent operating system with durable execution and an operator console. `Apache-2.0`.
+- [ControlKeel](https://github.com/aryaminus/controlkeel) - Control plane for policy gates, findings, proofs, and evaluations in AI-assisted software development. `Apache-2.0`.
+- [Fermix](https://github.com/tezra-io/fermix) - Local personal-agent daemon with browser setup, plugins, memory, and chat-platform connections. `MIT`.
+- [Genesis](https://github.com/EMI-Group/genesis) - Desktop system for long-running autonomous software development and transformation. `AGPL-3.0`.
+- [Glorbo](https://github.com/foobarto/glorbo) - Agent orchestration platform with Linux sandboxes, approvals, audit records, memory, and a LiveView dashboard. `MIT OR Apache-2.0`.
+- [Hive](https://github.com/tuist/hive) - Agentic product-development system with GitHub and Slack integration. `MPL-2.0`.
 - [Long](https://github.com/mjason/long) - LAN-first LLM agent runtime with a web interface, memory, scheduled tasks, and platform bots. `MIT`.
+- [Loomkin](https://github.com/pass-agent/loomkin) - Multi-agent workspace with persistent decision memory, approvals, skills, and a LiveView mission-control interface. `MIT`.
+- [OSA](https://github.com/Miosa-osa/OSA) - Local coding and general-purpose agent with a terminal interface, tools, memory, MCP, sandboxes, and subagents. `Apache-2.0`.
+- [Pepe](https://github.com/pepe-agent/pepe) - Agent runtime with a CLI, LiveView dashboard, APIs, tools, skills, delegation, and chat-platform connections. `MIT`.
+- [Shem](https://github.com/thephilip/shem) - Agent platform with a flight recorder, time-travel debugger, tool packs, TUI, and web interface. `Apache-2.0`.
+- [Symphony](https://github.com/openai/symphony) - Experimental system for running coding agents from project tasks and verifying their work. `Apache-2.0`.
+- [Vibe](https://github.com/elixir-vibe/vibe) - Local coding agent with a TUI, LiveView console, tools, memory, plugins, and subagents. `MIT`.
+- [ZAQ](https://github.com/www-zaq-ai/zaq) - Collaborative agent operating system with workflows, tools, MCP connections, knowledge management, and a LiveView control panel. `AGPL-3.0`.
+
+### Control Panels and Orchestrators With License Warnings
+
+The projects in this subsection are included for discovery. They do not meet the main list's OSI-license requirement. A missing license normally means that the source is all rights reserved, even when its repository is public.
+
+- [Agent Harness](https://github.com/nyelbangash/agent-harness) - Always-on coding-agent system with a LiveView mission-control dashboard, safety controls, and GitHub issue automation. **No license is stated.**
+- [Buster Claw](https://github.com/hightowerbuilds/buster-claw) - Desktop command, memory, browser, integration, and audit surface for external coding agents. `PolyForm-Shield-1.0.0`; not OSI-approved.
+- [Codex Pooler](https://github.com/icoretech/codex-pooler) - Self-hosted Codex gateway with team accounts, API keys, sessions, and an operator dashboard. `Elastic-2.0`; not OSI-approved.
+- [Codrift](https://github.com/filipecabaco/codrift) - Desktop and MCP control panel for agent initiatives, worktrees, shared memory, and integrations. **The README states MIT, but the repository has no license file.**
+- [Conductor](https://github.com/dangeranger/conductor) - Coding-agent harness that turns Linear issues into isolated Codex workspaces with an optional LiveView dashboard. **No license is stated.**
+- [CYFR](https://github.com/cyfrworks/cyfr) - Self-hosted policy, sandbox, permission, and execution control plane for AI agents. The core uses `Apache-2.0`, and the Sanctum subsystem uses `FSL-1.1-Apache-2.0`, which is not OSI-approved until its future conversion.
+- [JidoBuilder](https://github.com/TMDLRG/JidoBuilder) - Visual console for building, configuring, deploying, and monitoring Jido agents. `PolyForm-Noncommercial-1.0.0`; not OSI-approved.
+- [jido-conductor](https://github.com/jmanhype/jido-conductor) - Early desktop interface for managing and orchestrating Jido agents. **The README states MIT, but the repository has no license file.**
+- [Neoharness](https://github.com/Neofox/neoharness) - Personal-agent runtime with tools, memory, schedules, chat connections, and a LiveView interface. **No license is stated.**
+- [Svärm](https://github.com/svarm-dev/svarm) - Self-hosted coding-agent control plane for tickets, approvals, and run costs. `FSL-1.1-MIT`; not OSI-approved until its future conversion.
+
+## Agent Frameworks and Development Tools
+
+These projects are libraries, embeddable interfaces, and development tools. They are not standalone self-hosted applications.
+
+- [Jido](https://github.com/agentjido/jido) - Distributed autonomous-agent framework with signals, actions, workflows, and OTP-native execution. `Apache-2.0`.
+- [Agens](https://github.com/jessedrelick/agens) - OTP components for reliable multi-agent LLM workflows. `Apache-2.0`.
+- [AgentForge](https://github.com/i365dev/agent_forge) - Signal-driven workflow framework for intelligent and adaptive systems. `MIT`.
+- [Alloy](https://github.com/alloy-ex/alloy) - Model-independent agent harness for Elixir applications. `MIT`.
+- [Avalon](https://github.com/elixir-avalon/avalon) - Standardization framework for agentic workflows in Elixir. `Apache-2.0`.
+- [BeamWeaver](https://github.com/caudena/beam_weaver) - Framework for traceable agents, graph workflows, tools, memory, approvals, and streaming. `Apache-2.0`.
+- [Cantrip](https://github.com/deepfates/cantrip) - Extensible multi-agent environment with delegation, gates, storage, and sandbox options. `MIT`.
+- [Condukt](https://github.com/tuist/condukt) - Library and standalone engine for agentic workflows, tools, and sandboxed execution. `MIT`.
+- [ElGraph](https://github.com/showjihyun/ElGraph) - Graph-first agent framework with durable execution, approvals, checkpoints, MCP, and an observability interface. `MIT`.
+- [Jido Studio](https://github.com/agentjido/jido_studio) - Embeddable LiveView dashboard for managing and debugging Jido agents. `Apache-2.0`.
+- [LangChain for Elixir](https://github.com/brainlid/langchain) - Framework for adding LLMs, tools, chains, and agents to Elixir applications. `Apache-2.0`.
+- [Legion](https://github.com/software-mansion-labs/legion) - Runtime-agent framework with tool modules, agent delegation, approvals, persistence, and sandboxes. `MIT`.
+- [LegionWeb](https://github.com/software-mansion-labs/legion_web) - Embeddable LiveView dashboard for Legion agent activity and execution traces. `MIT`.
+- [Lemon](https://github.com/z80dev/lemon) - BEAM-native agent platform with pluggable engines, channels, memory, tools, and a reference runtime. `MIT`.
+- [LLMAgent](https://github.com/i365dev/llm_agent) - Abstraction for domain-specific LLM agents built on AgentForge. `MIT`.
+- [Nous](https://github.com/nyo16/nous) - Agent framework with multiple model providers, tools, memory, workflows, teams, approvals, and LiveView integration. `Apache-2.0`.
+- [Sagents](https://github.com/sagents-ai/sagents) - Interactive-agent framework with OTP supervision, approvals, subagents, and LiveView integration. `Apache-2.0`.
+- [Synapse](https://github.com/nshkrdotcom/synapse) - Headless multi-agent orchestration framework with signals, workflows, persistence, and audit records. `MIT`.
 
 ## Analytics
 
