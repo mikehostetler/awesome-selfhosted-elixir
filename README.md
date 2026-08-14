@@ -7,6 +7,7 @@ This list records the source language of each application. It does not use only 
 ## Contents
 
 - [AI and Agents](#ai-and-agents)
+- [Software Factories](#software-factories)
 - [Agent Frameworks and Development Tools](#agent-frameworks-and-development-tools)
 - [Analytics](#analytics)
 - [Automation and Data](#automation-and-data)
@@ -23,33 +24,47 @@ This list records the source language of each application. It does not use only 
 
 - [AlexClaw](https://github.com/thatsme/AlexClaw) - Personal AI agent with workflows, memory, local-model support, and chat-platform control. `Apache-2.0`.
 - [Ankole](https://github.com/AgentBull/ankole) - AI workforce and agent operating system with durable execution and an operator console. `Apache-2.0`.
-- [ControlKeel](https://github.com/aryaminus/controlkeel) - Control plane for policy gates, findings, proofs, and evaluations in AI-assisted software development. `Apache-2.0`.
 - [Fermix](https://github.com/tezra-io/fermix) - Local personal-agent daemon with browser setup, plugins, memory, and chat-platform connections. `MIT`.
-- [Genesis](https://github.com/EMI-Group/genesis) - Desktop system for long-running autonomous software development and transformation. `AGPL-3.0`.
 - [Glorbo](https://github.com/foobarto/glorbo) - Agent orchestration platform with Linux sandboxes, approvals, audit records, memory, and a LiveView dashboard. `MIT OR Apache-2.0`.
-- [Hive](https://github.com/tuist/hive) - Agentic product-development system with GitHub and Slack integration. `MPL-2.0`.
 - [Long](https://github.com/mjason/long) - LAN-first LLM agent runtime with a web interface, memory, scheduled tasks, and platform bots. `MIT`.
-- [Loomkin](https://github.com/pass-agent/loomkin) - Multi-agent workspace with persistent decision memory, approvals, skills, and a LiveView mission-control interface. `MIT`.
 - [OSA](https://github.com/Miosa-osa/OSA) - Local coding and general-purpose agent with a terminal interface, tools, memory, MCP, sandboxes, and subagents. `Apache-2.0`.
 - [Pepe](https://github.com/pepe-agent/pepe) - Agent runtime with a CLI, LiveView dashboard, APIs, tools, skills, delegation, and chat-platform connections. `MIT`.
 - [Shem](https://github.com/thephilip/shem) - Agent platform with a flight recorder, time-travel debugger, tool packs, TUI, and web interface. `Apache-2.0`.
-- [Symphony](https://github.com/openai/symphony) - Experimental system for running coding agents from project tasks and verifying their work. `Apache-2.0`.
 - [Vibe](https://github.com/elixir-vibe/vibe) - Local coding agent with a TUI, LiveView console, tools, memory, plugins, and subagents. `MIT`.
 - [ZAQ](https://github.com/www-zaq-ai/zaq) - Collaborative agent operating system with workflows, tools, MCP connections, knowledge management, and a LiveView control panel. `AGPL-3.0`.
 
-### Control Panels and Orchestrators With License Warnings
+### Agent Platforms With License Warnings
 
 The projects in this subsection are included for discovery. They do not meet the main list's OSI-license requirement. A missing license normally means that the source is all rights reserved, even when its repository is public.
 
-- [Agent Harness](https://github.com/nyelbangash/agent-harness) - Always-on coding-agent system with a LiveView mission-control dashboard, safety controls, and GitHub issue automation. **No license is stated.**
 - [Buster Claw](https://github.com/hightowerbuilds/buster-claw) - Desktop command, memory, browser, integration, and audit surface for external coding agents. `PolyForm-Shield-1.0.0`; not OSI-approved.
 - [Codex Pooler](https://github.com/icoretech/codex-pooler) - Self-hosted Codex gateway with team accounts, API keys, sessions, and an operator dashboard. `Elastic-2.0`; not OSI-approved.
-- [Codrift](https://github.com/filipecabaco/codrift) - Desktop and MCP control panel for agent initiatives, worktrees, shared memory, and integrations. **The README states MIT, but the repository has no license file.**
-- [Conductor](https://github.com/dangeranger/conductor) - Coding-agent harness that turns Linear issues into isolated Codex workspaces with an optional LiveView dashboard. **No license is stated.**
 - [CYFR](https://github.com/cyfrworks/cyfr) - Self-hosted policy, sandbox, permission, and execution control plane for AI agents. The core uses `Apache-2.0`, and the Sanctum subsystem uses `FSL-1.1-Apache-2.0`, which is not OSI-approved until its future conversion.
 - [JidoBuilder](https://github.com/TMDLRG/JidoBuilder) - Visual console for building, configuring, deploying, and monitoring Jido agents. `PolyForm-Noncommercial-1.0.0`; not OSI-approved.
 - [jido-conductor](https://github.com/jmanhype/jido-conductor) - Early desktop interface for managing and orchestrating Jido agents. **The README states MIT, but the repository has no license file.**
 - [Neoharness](https://github.com/Neofox/neoharness) - Personal-agent runtime with tools, memory, schedules, chat connections, and a LiveView interface. **No license is stated.**
+
+## Software Factories
+
+Software factories turn goals, tickets, or specifications into tested code changes and pull requests. They add orchestration, isolated workspaces, approvals, and verification around coding agents.
+
+- [Camelot](https://github.com/T0ha/camelot) - Self-hosted Kanban control plane for assigning approved tasks to Codex and Claude Code agents. `GPL-2.0`.
+- [ControlKeel](https://github.com/aryaminus/controlkeel) - Control plane for policy gates, findings, proofs, and evaluations in AI-assisted software development. `Apache-2.0`.
+- [Genesis](https://github.com/EMI-Group/genesis) - Desktop system for long-running autonomous software development and transformation. `AGPL-3.0`.
+- [Hive](https://github.com/tuist/hive) - Agentic product-development system with GitHub and Slack integration. `MPL-2.0`.
+- [Loomkin](https://github.com/pass-agent/loomkin) - Multi-agent development workspace with persistent decision memory, approvals, skills, and a LiveView mission-control interface. `MIT`.
+- [Maestro](https://github.com/joosure/Maestro) - Task-driven engineering platform for Codex, Claude Code, CodeBuddy Code, and OpenCode. `AGPL-3.0-only`.
+- [Pixir](https://github.com/Ranvier-Technologies/pixir) - Coding-agent runtime for supervised subagents, workflows, tool execution, and replayable evidence logs. `MIT`.
+- [Shep](https://github.com/craigruks/shep) - Worktree-based orchestrator that turns labeled GitHub issues into CI-verified pull requests. `MIT`.
+- [Symphony](https://github.com/openai/symphony) - Experimental system for running coding agents from project tasks and verifying their work. `Apache-2.0`.
+
+### Software Factories With License Warnings
+
+The projects in this subsection are included for discovery. They do not meet the main list's OSI-license requirement.
+
+- [Agent Harness](https://github.com/nyelbangash/agent-harness) - Always-on coding-agent system with a LiveView mission-control dashboard, safety controls, and GitHub issue automation. **No license is stated.**
+- [Codrift](https://github.com/filipecabaco/codrift) - Desktop and MCP control panel for agent initiatives, worktrees, shared memory, and integrations. **The README states MIT, but the repository has no license file.**
+- [Conductor](https://github.com/dangeranger/conductor) - Coding-agent harness that turns Linear issues into isolated Codex workspaces with an optional LiveView dashboard. **No license is stated.**
 - [Svärm](https://github.com/svarm-dev/svarm) - Self-hosted coding-agent control plane for tickets, approvals, and run costs. `FSL-1.1-MIT`; not OSI-approved until its future conversion.
 
 ## Agent Frameworks and Development Tools
