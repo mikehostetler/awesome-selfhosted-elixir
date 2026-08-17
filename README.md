@@ -175,6 +175,7 @@ These projects are libraries, embeddable interfaces, and development tools. They
 - [NervesHub](https://github.com/nerves-hub/nerves_hub_web) - Firmware, update, and device-fleet management for Nerves devices. `Apache-2.0`.
 - [OCSF Schema Server](https://github.com/ocsf/ocsf-server) - Web server for browsing and working with Open Cybersecurity Schema Framework schemas. `Apache-2.0`.
 - [Osmotic](https://github.com/ReifiedException/osmotic) - AI gateway for keys, quotas, spend controls, data protection, and audit records. `BSD-2-Clause`.
+- [Plural Console](https://github.com/pluralsh/console) - Kubernetes fleet-management control plane for GitOps, infrastructure-as-code automation, pull-request workflows, notifications, and AI-assisted operations. `AGPL-3.0` source; vendor-built binaries use `MIT`, and a Plural license is required.
 - [Poxa](https://github.com/edgurgel/poxa) - Standalone Pusher-compatible server for real-time applications. `MIT`.
 - [Runhyve Webapp](https://gitlab.com/runhyve/webapp) - Management interface for Runhyve hypervisors and virtual machines. `BSD-2-Clause`.
 - [ServiceRadar](https://code.carverauto.dev/carverauto/serviceradar) - Network management, monitoring, and security analytics. `Apache-2.0`.
