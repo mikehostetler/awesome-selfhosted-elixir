@@ -53,6 +53,7 @@ Software factories turn goals, tickets, or specifications into tested code chang
 - [Genesis](https://github.com/EMI-Group/genesis) - Desktop system for long-running autonomous software development and transformation. `AGPL-3.0`.
 - [Hive](https://github.com/tuist/hive) - Agentic product-development system with GitHub and Slack integration. `MPL-2.0`.
 - [Loomkin](https://github.com/pass-agent/loomkin) - Multi-agent development workspace with persistent decision memory, approvals, skills, and a LiveView mission-control interface. `MIT`.
+- [Loopyard](https://github.com/loopyard/loopyard) - Multiplayer software factory with isolated Docker workspaces, concurrent coding agents, shared terminals, and durable review decisions. `AGPL-3.0-or-later`.
 - [Maestro](https://github.com/joosure/Maestro) - Task-driven engineering platform for Codex, Claude Code, CodeBuddy Code, and OpenCode. `AGPL-3.0-only`.
 - [Pixir](https://github.com/Ranvier-Technologies/pixir) - Coding-agent runtime for supervised subagents, workflows, tool execution, and replayable evidence logs. `MIT`.
 - [Shep](https://github.com/craigruks/shep) - Worktree-based orchestrator that turns labeled GitHub issues into CI-verified pull requests. `MIT`.
