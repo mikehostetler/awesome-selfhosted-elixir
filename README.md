@@ -149,6 +149,7 @@ The projects in this subsection are included for discovery. They do not meet the
 
 ## Developer Tools
 
+- [Accent](https://github.com/mirego/accent) - Platform for managing application translation assets. `BSD-3-Clause`.
 - [asciinema server](https://github.com/asciinema/asciinema-server) - Platform for hosting and sharing terminal session recordings. `Apache-2.0`.
 - [Azimutt](https://github.com/azimuttapp/azimutt) - Database schema exploration, documentation, and analysis. `MIT`.
 - [Code::Stats](https://gitlab.com/code-stats/code-stats) - Programming activity and experience-point tracking service. `BSD-3-Clause`.
