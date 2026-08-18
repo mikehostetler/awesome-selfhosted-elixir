@@ -1,6 +1,8 @@
 # Awesome Self-Hosted Elixir [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of free and open-source applications that you can host yourself and whose server is written primarily in Elixir or has an important Elixir component.
+> A curated list of self-hosted applications whose source code is publicly available and whose server is written primarily in Elixir or includes an important Elixir component.
+
+“Self-hosted” means that users can run the application on hardware or infrastructure they control. Both open-source and source-available projects are in scope. Each entry states its license status, and projects with non-OSI or missing licenses are clearly marked.
 
 This list records the source language of each application. It does not use only the run-time requirements. Thus, an Elixir application that is distributed only as a Docker image is still in scope.
 
