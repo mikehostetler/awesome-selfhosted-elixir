@@ -134,6 +134,12 @@ These projects are libraries, embeddable interfaces, and development tools. They
 - [Pleroma](https://git.pleroma.social/pleroma/pleroma) - Lightweight federated microblogging server compatible with ActivityPub. `AGPL-3.0`.
 - [vutuv](https://github.com/wintermeyer/vutuv) - Federated professional social network. `MIT`.
 
+### Communication and Social With License Warnings
+
+The projects in this subsection are included for discovery. They do not meet the main list's OSI-license requirement.
+
+- [Soundbored](https://github.com/christomitov/soundbored) - Self-hosted Discord soundboard with sound uploads, browser playback controls, voice-channel automation, and an authenticated API. **No license is stated.**
+
 ## Content Management and Publishing
 
 - [AlchemyPub](https://codeberg.org/j4nk/alchemy_pub) - Server-side Markdown publishing and presentation application. `Apache-2.0`.
