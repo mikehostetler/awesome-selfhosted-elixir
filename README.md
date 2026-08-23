@@ -181,6 +181,7 @@ The projects in this subsection are included for discovery. They do not meet the
 - [FlyingDdns](https://gitlab.com/timopallach/FlyingDdns) - Dynamic DNS service for PowerDNS with a web interface and API. `BSD-2-Clause`.
 - [Health](https://codeberg.org/ppatrzyk/health) - Infrastructure and cron-job monitor with container and release deployment options. `AGPL-3.0`.
 - [Logflare](https://github.com/Logflare/logflare) - Structured log ingestion, search, browser tailing, and OpenTelemetry service. `Apache-2.0`.
+- [LLMProxy](https://github.com/elixir-vibe/llm_proxy) - AI gateway for multi-provider routing, fallbacks, budgets, keys, and observability. `MIT`.
 - [Lynx](https://github.com/Clivern/Lynx) - Remote state backend for Terraform. `MIT`.
 - [NervesHub](https://github.com/nerves-hub/nerves_hub_web) - Firmware, update, and device-fleet management for Nerves devices. `Apache-2.0`.
 - [OCSF Schema Server](https://github.com/ocsf/ocsf-server) - Web server for browsing and working with Open Cybersecurity Schema Framework schemas. `Apache-2.0`.
