@@ -18,6 +18,7 @@ This list records the source language of each application. It does not use only 
 - [Content Management and Publishing](#content-management-and-publishing)
 - [Developer Tools](#developer-tools)
 - [Education](#education)
+- [Frameworks and Starter Kits](#frameworks-and-starter-kits)
 - [Games](#games)
 - [Infrastructure and Operations](#infrastructure-and-operations)
 - [Media and Personal](#media-and-personal)
@@ -166,6 +167,12 @@ The projects in this subsection are included for discovery. They do not meet the
 
 - [Listudy](https://github.com/ArneVogel/listudy) - Chess training platform for openings, tactics, and spaced repetition. `AGPL-3.0`.
 - [OLI Torus](https://github.com/Simon-Initiative/oli-torus) - Course authoring and delivery platform with learning activities and analytics. `MIT`.
+
+## Frameworks and Starter Kits
+
+These projects help developers build self-hosted applications. They are not standalone self-hosted applications.
+
+- [PhoenixKit](https://github.com/BeamLabEU/phoenix_kit) - Modular Phoenix starter kit with authentication, administration, content management, and optional e-commerce and billing modules. `MIT`.
 
 ## Games
 
