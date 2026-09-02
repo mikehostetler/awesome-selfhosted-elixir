@@ -118,6 +118,7 @@ These projects are libraries, embeddable interfaces, and development tools. They
 
 ## Communication and Social
 
+- [abuuba](https://github.com/wintermeyer/abuuba) - High-performance federated microblogging server compatible with Mastodon clients and ActivityPub; currently intended for testing rather than production. `MIT`.
 - [Akkoma](https://akkoma.dev/AkkomaGang/akkoma) - Federated microblogging server compatible with ActivityPub. `AGPL-3.0`.
 - [Baudrate](https://github.com/hiroshiyui/baudrate) - ActivityPub-enabled bulletin board system with threaded discussions and moderation. `AGPL-3.0`.
 - [BBoard](https://codeberg.org/fungal/bboard) - Forum and bulletin board with a production release and system service configuration. `EUPL-1.2`.
