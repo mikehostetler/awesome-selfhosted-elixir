@@ -31,6 +31,7 @@ This list records the source language of each application. It does not use only 
 - [Glorbo](https://github.com/foobarto/glorbo) - Agent orchestration platform with Linux sandboxes, approvals, audit records, memory, and a LiveView dashboard. `MIT OR Apache-2.0`.
 - [Long](https://github.com/mjason/long) - LAN-first LLM agent runtime with a web interface, memory, scheduled tasks, and platform bots. `MIT`.
 - [OSA](https://github.com/Miosa-osa/OSA) - Local coding and general-purpose agent with a terminal interface, tools, memory, MCP, sandboxes, and subagents. `Apache-2.0`.
+- [Ouroboros](https://github.com/monocursive/ouroboros) - Durable AI coding-agent runtime with terminal and web interfaces, session replay, distributed subagents, sandboxing, approvals, and WebAssembly components. `MIT`.
 - [Pepe](https://github.com/pepe-agent/pepe) - Agent runtime with a CLI, LiveView dashboard, APIs, tools, skills, delegation, and chat-platform connections. `MIT`.
 - [Shem](https://github.com/thephilip/shem) - Agent platform with a flight recorder, time-travel debugger, tool packs, TUI, and web interface. `Apache-2.0`.
 - [Vibe](https://github.com/elixir-vibe/vibe) - Local coding agent with a TUI, LiveView console, tools, memory, plugins, and subagents. `MIT`.
