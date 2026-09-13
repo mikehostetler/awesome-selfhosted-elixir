@@ -27,6 +27,7 @@ This list records the source language of each application. It does not use only 
 
 - [AlexClaw](https://github.com/thatsme/AlexClaw) - Personal AI agent with workflows, memory, local-model support, and chat-platform control. `Apache-2.0`.
 - [Ankole](https://github.com/AgentBull/ankole) - AI workforce and agent operating system with durable execution and an operator console. `Apache-2.0`.
+- [Arbor](https://github.com/trust-arbor/arbor) ([website](https://trustarbor.com/)) - Distributed AI agent orchestration system with durable memory, capability-based security, consensus governance, and self-healing infrastructure. `MIT`.
 - [Fermix](https://github.com/tezra-io/fermix) - Local personal-agent daemon with browser setup, plugins, memory, and chat-platform connections. `MIT`.
 - [Glorbo](https://github.com/foobarto/glorbo) - Agent orchestration platform with Linux sandboxes, approvals, audit records, memory, and a LiveView dashboard. `MIT OR Apache-2.0`.
 - [Long](https://github.com/mjason/long) - LAN-first LLM agent runtime with a web interface, memory, scheduled tasks, and platform bots. `MIT`.
