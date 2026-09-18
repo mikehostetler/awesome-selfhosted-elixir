@@ -217,6 +217,7 @@ These projects help developers build self-hosted applications. They are not stan
 - [HydraSRT](https://github.com/streamband/hydra-srt) - Gateway for routing and managing SRT, UDP, and RTP video streams. `Apache-2.0`.
 - [Midarr](https://github.com/midarrlabs/midarr-server) - Lightweight media server for video libraries. `MIT`.
 - [Mydia](https://github.com/getmydia/mydia) - Movie and television library management platform. `AGPL-3.0`.
+- [Orcasite](https://github.com/orcasound/orcasite) - Live audio listening platform for orca monitoring. `AGPL-3.0`.
 - [Pinchflat](https://github.com/kieraneglin/pinchflat) - YouTube media manager and downloader based on yt-dlp. `AGPL-3.0`.
 - [PodSync](https://codeberg.org/jorams/pod-sync) - Single-user podcast synchronization server compatible with the Nextcloud GPodder Sync API. `EUPL-1.2`.
 - [Revix](https://github.com/curt/revix) - Personal location journal with ActivityPub federation. `AGPL-3.0`.
