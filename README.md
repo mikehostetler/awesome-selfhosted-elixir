@@ -112,6 +112,7 @@ These projects are libraries, embeddable interfaces, and development tools. They
 - [Accent](https://github.com/mirego/accent) - Translation management for software teams. `BSD-3-Clause`.
 - [Claper](https://github.com/ClaperCo/Claper) - Live audience questions, polls, and presentations. `AGPL-3.0`.
 - [Craftplan](https://github.com/puemos/craftplan) - Order, inventory, and production management for small manufacturing businesses. `AGPL-3.0`.
+- [Firmowid](https://github.com/Alergeek-Ventures/firmowid) - Invoicing and company management for businesses in Poland. `AGPL-3.0`.
 - [Mindwendel](https://github.com/b310-digital/mindwendel) - Collaborative brainstorming and idea prioritization. `AGPL-3.0`.
 - [nyght](https://gitlab.com/nyght/nyght) - Event, staff, ticket, and schedule management for music venues. `AGPL-3.0-only`.
 - [Operately](https://github.com/operately/operately) - Company goals, projects, and operating processes. The core uses Apache-2.0, and optional enterprise files use a separate license. `Apache-2.0`.
