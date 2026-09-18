@@ -162,6 +162,7 @@ The projects in this subsection are included for discovery. They do not meet the
 - [Code::Stats](https://gitlab.com/code-stats/code-stats) - Programming activity and experience-point tracking service. `BSD-3-Clause`.
 - [GitBlixt](https://gitblixt.com/gitblixt/gitblixt) - Git hosting and collaboration forge built with Phoenix LiveView. `AGPL-3.0`.
 - [Harpoon](https://github.com/aschiavon91/harpoon) - Webhook receiver and request inspector. `MIT`.
+- [Hex.pm](https://github.com/hexpm/hexpm) - Package registry, API, and website for the BEAM ecosystem. `Apache-2.0`.
 - [Livebook](https://github.com/livebook-dev/livebook) - Collaborative notebooks for code, data, automation, and machine learning. `Apache-2.0`.
 - [Notesclub](https://github.com/notesclub/notesclub) - Discovery and indexing service for public Livebook notebooks. `MIT`.
 - [OpenCov](https://github.com/danhper/opencov) - Test-coverage history viewer. `MIT`.
