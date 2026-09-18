@@ -210,6 +210,7 @@ These projects help developers build self-hosted applications. They are not stan
 ## Media and Personal
 
 - [Ambry](https://github.com/ambry-app/ambry) - Personal audiobook library and streaming server. `MIT`.
+- [Ashfolio](https://github.com/mdstaff/ashfolio) - Local investment, cash account, and net worth tracker with financial analytics. `BSD-4-Clause`; not OSI-approved. The README says MIT, but the LICENSE file says BSD 4-Clause.
 - [Atlas](https://github.com/dawarich-app/atlas) - Local-first offline map server based on OpenStreetMap data. `AGPL-3.0`.
 - [Cannery](https://codeberg.org/shibao/cannery) - Firearm and ammunition inventory management application. `AGPL-3.0-or-later`.
 - [Charsh](https://gitlab.com/owni.dev/charsh) - Detailed reference-sheet manager for fictional characters. `Apache-2.0`.
