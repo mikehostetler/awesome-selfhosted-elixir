@@ -141,6 +141,7 @@ These projects are libraries, embeddable interfaces, and development tools. They
 - [Myconet](https://codeberg.org/myconet/myconet) - ActivityPub social network designed for users to own and host their data. `EUPL-1.2`.
 - [Philomena](https://github.com/philomena-dev/philomena) - Imageboard platform for organizing, discussing, and sharing images. `AGPL-3.0`.
 - [Pleroma](https://git.pleroma.social/pleroma/pleroma) - Lightweight federated microblogging server compatible with ActivityPub. `AGPL-3.0`.
+- [Rebased](https://github.com/soapbox-pub/rebased) - Federated social network backend compatible with the Mastodon API. `AGPL-3.0-or-later`.
 - [vutuv](https://github.com/wintermeyer/vutuv) - Federated professional social network. `MIT`.
 
 ### Communication and Social With License Warnings
