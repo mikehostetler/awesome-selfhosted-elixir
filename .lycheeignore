@@ -1,0 +1,5 @@
+# These entries remain in the list while their source links are checked manually.
+# Cannery returns 404.
+^https://codeberg\.org/shibao/cannery/?$
+# The ServiceRadar source host times out from GitHub Actions.
+^https://code\.carverauto\.dev/carverauto/serviceradar/?$
