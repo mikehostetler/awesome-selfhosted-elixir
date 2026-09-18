@@ -110,6 +110,7 @@ These projects are libraries, embeddable interfaces, and development tools. They
 ## Business and Collaboration
 
 - [Accent](https://github.com/mirego/accent) - Translation management for software teams. `BSD-3-Clause`.
+- [Algora](https://github.com/algora-io/algora) - Hiring, contract, and bounty management for software teams and open-source communities. `AGPL-3.0`.
 - [Claper](https://github.com/ClaperCo/Claper) - Live audience questions, polls, and presentations. `AGPL-3.0`.
 - [Craftplan](https://github.com/puemos/craftplan) - Order, inventory, and production management for small manufacturing businesses. `AGPL-3.0`.
 - [Firmowid](https://github.com/Alergeek-Ventures/firmowid) - Invoicing and company management for businesses in Poland. `AGPL-3.0`.
